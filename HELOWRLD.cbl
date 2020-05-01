@@ -12,6 +12,6 @@
        PROCEDURE DIVISION.
        MAIN-PROCEDURE.
             DISPLAY "Hello world" 
-            DISPLAY "How are you?"         
+            DISPLAY "I am fine"         
             STOP RUN.
        END PROGRAM HELOWRLD.

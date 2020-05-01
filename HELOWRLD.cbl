@@ -11,7 +11,6 @@
        WORKING-STORAGE SECTION.
        PROCEDURE DIVISION.
        MAIN-PROCEDURE.
-            DISPLAY "Hello world"
-            DISPLAY "How are you ?"     
+            DISPLAY "Hello world"     
             STOP RUN.
        END PROGRAM HELOWRLD.
